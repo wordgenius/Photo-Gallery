@@ -1,0 +1,90 @@
+* {
+  margin: 2px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+img {
+    width: 400px;
+    height: 400px;
+    margin-top: 10%;
+    object-fit: cover;
+}
+
+body {
+  background-color: blue;
+}
+.everything {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row;
+}
+#superlong {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+#yy {
+  width: 60%;
+  height: 200%;
+  object-fit: cover;
+}
+
+#chengdu {
+  width: 110%;
+  height: 80%;
+  object-fit: cover;
+}
+
+#zyx {
+  width: 60%;
+  height: 100%;
+  object-fit: cover;
+  margin-top: 3%;
+}
+
+#hangzhou {
+  width: 100%;
+  height: 50%;
+  object-fit: cover;
+}
+
+.celebs {
+  width: 50%;
+  height: 50%;
+  object-fit: cover;
+}
+
+.daydream {
+  height: 600px;
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 80%;
+  object-fit: cover;
+}
+
+.food {
+  height: 600px;
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  border-radius: 80%;
+  object-fit: cover;
+}
+
+.idol {
+  height: 800px;
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 80%;
+  object-fit: cover;
+}
+.hi, .guypic{
+  background-color: black;
+}
